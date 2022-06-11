@@ -45,13 +45,13 @@ To use(or modify) any of the exisiting smart-item for creating a scene in builde
   ```
  2. All the images(/glb/gltf files) should be kept in the 'models' directory.
  3. src/item.ts contains the code for the smart-item. If need to modify, we can do it there.
-# use through builder
+### use through builder
  4. Once the smart-item is ready, come to the root level of the directory of that perticular smart-item and run the following command -
   ```bash
   dcl pack
   ```
  5. An 'item.zip' file will be generated in the same directory. Upload the same by adding new assetpack in the decentraland builder.
  
-# use through code
+### use through code
  4. Once the smart-item is ready, we can copy the complete directory of the smart-item, and use inside the designated project
 
