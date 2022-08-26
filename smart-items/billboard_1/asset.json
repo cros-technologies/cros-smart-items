@@ -1,0 +1,16 @@
+{
+	"name": "Cros Billboard",
+	"tags": [
+		"image",
+		"billboard"
+	],
+	"category": "Ad Asset",
+	"model": "models/Billboard_Black.glb",
+	"parameters": [
+		{
+			"label": "Asset ID",
+			"type": "text",
+			"default": ""
+		}
+	]
+}

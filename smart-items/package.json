@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "decentraland-ecs": "^6.11.3"
+  }
+}

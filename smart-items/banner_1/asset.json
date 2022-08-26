@@ -1,0 +1,16 @@
+{
+	"name": "Cros Banner",
+	"tags": [
+		"image",
+		"banner"
+	],
+	"category": "Ad Asset",
+	"model": "models/WhiteGalleryInfo.glb",
+	"parameters": [
+		{
+			"label": "Asset ID",
+			"type": "text",
+			"default": ""
+		}
+	]
+}

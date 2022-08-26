@@ -1,0 +1,16 @@
+{
+	"name": "Cros Big Screen",
+	"tags": [
+		"image",
+		"bigscreen"
+	],
+	"category": "Ad Asset",
+	"model": "models/Screen_Independent.glb",
+	"parameters": [
+		{
+			"label": "Asset ID",
+			"type": "text",
+			"default": ""
+		}
+	]
+}
